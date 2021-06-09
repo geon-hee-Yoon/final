@@ -120,4 +120,9 @@
 		}
 	}
 
-##
+
+## 실행결과(일부)
+
+![컴알기말](https://user-images.githubusercontent.com/80369805/121369320-b41c2780-c976-11eb-805a-884af66fe504.PNG)
+
+- 
