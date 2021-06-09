@@ -1,9 +1,6 @@
 # 모의 담금질(Simulated Annealing)
 : 초반엔 특정 패턴없이 해를 탐색하다가 점점 규칙적인 방식으로 해를 탐색하는 알고리즘.
 
-# 순서 
-코드 / 설명
-
 ## 소스코드
 
 ### Main
@@ -125,4 +122,11 @@
 
 ![컴알기말](https://user-images.githubusercontent.com/80369805/121369320-b41c2780-c976-11eb-805a-884af66fe504.PNG)
 
-- 
+
+![컴알기말2 PNG](https://user-images.githubusercontent.com/80369805/121369813-268d0780-c977-11eb-9f3b-114109243130.jpg)
+### 논점
+- curve fitting을 하는 cost function이 최소가 되었을 때,  parameter 값이 실제 값과 유사한가
+
+### 결론
+- 위 데이터는 SimulatedAnnealing을 이용한 cost function,parameter 값들의 일부입니다.
+- 오차를 고려해, 실제 값과 유사한 경우들이 있음을 알 수 있습니다.
