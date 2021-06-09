@@ -129,4 +129,4 @@
 
 ### 결론
 - 위 데이터는 SimulatedAnnealing을 이용한 cost function,parameter 값들의 일부입니다.
-- 오차를 고려해, 실제 값과 유사한 경우들이 있음을 알 수 있습니다.
+- 몇몇 값들이  유사한 것으로 보아  parameter 값이 실제 값과 유사할 것이라고 추측할 수 있습니다.
